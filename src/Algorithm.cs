@@ -1,10 +1,10 @@
 ﻿namespace FSRSharp
 {
-    public class FsrsAlgorithm
+    public class Algorithm
     {
         public Parameters P { get; set; }
 
-        public FsrsAlgorithm()
+        public Algorithm()
         {
             P = new Parameters();
         }
